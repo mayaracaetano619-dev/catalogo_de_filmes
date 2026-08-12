@@ -63,4 +63,4 @@ O **Catálogo Pessoal de Filmes** será um sistema para ajudar o usuário a orga
 
 
 ## Diagrama
-![](diagrama-catalogo)
+![](diagrama-catalogo.png)
