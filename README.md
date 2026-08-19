@@ -61,8 +61,14 @@ O **Catálogo Pessoal de Filmes** será um sistema para ajudar o usuário a orga
 
 **RN06**: A coleção de filmes deve ser de uso pessoal, não sendo compartilhada com outros usuários nesta versão do sistema.
 
+<<<<<<< HEAD
 ## Visão Geral (Diagrama)
 ![](diagrama-catalogo.png)
 
 ## Visão Página de Login (Diagrama)
 ![](login.jpg)
+=======
+
+## Diagrama
+![](diagrama-catalogo.png)
+>>>>>>> 8ce91508af4857b155e4b4ce3ecae1c4a8b43e7e
