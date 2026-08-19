@@ -67,7 +67,6 @@ O **Catálogo Pessoal de Filmes** será um sistema para ajudar o usuário a orga
 ## Visão Página de Login (Diagrama)
 ![](login.png)
 
-
 ## Visão Cadastro de Filmes (Diagrama)
 ![](cadastro-filme.jpg)
 
