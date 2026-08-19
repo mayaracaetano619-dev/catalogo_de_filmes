@@ -78,5 +78,5 @@ O **Catálogo Pessoal de Filmes** será um sistema para ajudar o usuário a orga
 ![](remover-filme.jpg)
 
 ## Modelo Conceitual 
-![](modelo_filme.png)
+![](modelo-conceitual.png)
 
