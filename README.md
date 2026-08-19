@@ -77,3 +77,6 @@ O **Catálogo Pessoal de Filmes** será um sistema para ajudar o usuário a orga
 ## Visão Remover Filmes (Fluxograma)
 ![](remover-filme.jpg)
 
+## Modelo Conceitual 
+![](modelo_filme.png)
+
