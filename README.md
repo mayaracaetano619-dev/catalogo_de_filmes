@@ -80,3 +80,19 @@ O **Catálogo Pessoal de Filmes** será um sistema para ajudar o usuário a orga
 ## Modelo Conceitual 
 ![](modelo-conceitual.png)
 
+=======
+## Protótipo da Tela de Login 
+![](tela-login.jpg)
+
+## Protótipo da Tela Inicial
+![](tela-inicial.jpg)
+
+## Protótipo da Tela de Cadastrar Filmes
+![](cadastro-filme.png)
+
+## Protótipo da Tela de Edição de Filmes 
+![](editar-filmes.png)
+
+## Protótipo da Tela de Remoção de Filmes 
+![](remover-filme.png)
+
