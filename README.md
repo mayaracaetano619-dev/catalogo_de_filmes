@@ -96,3 +96,6 @@ O **Catálogo Pessoal de Filmes** será um sistema para ajudar o usuário a orga
 ## Protótipo da Tela de Remoção de Filmes 
 ![](remover-filme.png)
 
+## Modelo Lógico
+![](modelo_logico.png)
+
