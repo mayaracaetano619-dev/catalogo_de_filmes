@@ -97,5 +97,5 @@ O **Catálogo Pessoal de Filmes** será um sistema para ajudar o usuário a orga
 ![](remover-filme.png)
 
 ## Modelo Lógico
-![](modelo_logico.png)
+![](modelo-logico.png)
 
