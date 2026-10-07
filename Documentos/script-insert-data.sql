@@ -5,9 +5,6 @@ VALUES
 ('Maria Oliveira', 'maria@gmail.com', '213141'),
 ('Pedro Souza', 'pedro@gmail.com', '516171'),
 ('Lucas Costa', 'lucas@gmail.com', '819202');
-
-SELECT * FROM usuarios;
-
 INSERT INTO filmes
 (usuario_id, titulo, ano_lancamento, genero, nota, capa_url)
 VALUES
@@ -25,5 +22,3 @@ VALUES
 
 (5, 'Vingadores: Ultimato', '2019-04-25', 'Acao', 8.4, 'Vingadores Ultimato.pdf'),
 (5, 'Toy Story', '1995-12-22', 'Animacao', 8.5, 'Toy Story.pdf');
-
-SELECT * FROM filmes
