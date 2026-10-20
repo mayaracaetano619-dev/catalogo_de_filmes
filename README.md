@@ -63,19 +63,19 @@ O **Catálogo Pessoal de Filmes** será um sistema para ajudar o usuário a orga
 
 
 ## Visão Geral (Fluxograma)
-![](diagrama-catalogo.png)
+![](/Documentos/diagrama-catalogo.png)
 
 ## Visão Página de Login (Fluxograma)
-![](login.png)
+![](/Documentos/login.png)
 
 ## Visão Cadastro de Filmes (Fluxograma)
-![](cadastro-filme.jpg)
+![](/Documentos/cadastro-filme.jpg)
 
 ## Visão Edição de Filmes (Fluxograma)
-![](edicao-filmes.jpg)
+![](/Documentos/edicao-filmes.jpg)
 
 ## Visão Remover Filmes (Fluxograma)
-![](remover-filme.jpg)
+![](/Documentos/remover-filme.jpg)
 
 ## Modelo Conceitual 
 ![](/Documentos/modelo-conceitual.png)
@@ -85,17 +85,17 @@ O **Catálogo Pessoal de Filmes** será um sistema para ajudar o usuário a orga
 ![](/Documentos/tela-inicial.jpg)
 
 ## Protótipo da Tela Inicial
-![](tela-inicial.jpg)
+![](/Documentos/tela-inicial.jpg)
 
 ## Protótipo da Tela de Cadastrar Filmes
-![](cadastro-filme.png)
+![](/Documentos/cadastro-filme.png)
 
 ## Protótipo da Tela de Edição de Filmes 
-![](editar-filmes.png)
+![](/Documentos/editar-filmes.png)
 
 ## Protótipo da Tela de Remoção de Filmes 
-![](remover-filme.png)
+![](/Documentos/remover-filme.png)
 
 ## Modelo Lógico
-![](modelo-logico.png)
+![](/Documentos/modelo-logico.png)
 
