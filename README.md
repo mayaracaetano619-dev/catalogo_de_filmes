@@ -78,11 +78,11 @@ O **Catálogo Pessoal de Filmes** será um sistema para ajudar o usuário a orga
 ![](remover-filme.jpg)
 
 ## Modelo Conceitual 
-![](modelo-conceitual.png)
+![](/Documentos/modelo-conceitual.png)
 
 =======
 ## Protótipo da Tela de Login 
-![](tela-login.jpg)
+![](/Documentos/tela-inicial.jpg)
 
 ## Protótipo da Tela Inicial
 ![](tela-inicial.jpg)
