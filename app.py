@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template
 from psycopg2.extras import RealDictCursor
 
 from database import criar_conexao
@@ -19,7 +19,7 @@ def listar_fimes():
 
     conn.close()
 
-    return jsonify(resposta), 201
+    return render_template("index.html", filmes=resposta)
 
 
 @app.route('/filme', methods=['POST'])
