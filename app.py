@@ -1,4 +1,5 @@
 from flask import Flask, request, jsonify
+from psycopg2.extras import RealDictCursor
 
 from database import criar_conexao
 
@@ -8,18 +9,21 @@ app = Flask(__name__)
 def home():
     return '<h1>Hello World!<h1>'
 
-@app.route('/usuario', methods=['GET'])
-def buscar_usuario():
-    usuario = {
-        "nome": "Mayara",
-        "idade": 16,
-        "telefone": "(19) 971682360"
-    }
-    return usuario
+@app.route('/filme', methods=['GET'])
+def listar_fimes():
+    conn = criar_conexao()
+    cursor = conn.cursor(cursor_factory=RealDictCursor)
+
+    cursor.execute("SELECT * FROM filmes")
+    resposta = cursor.fetchall()
+
+    conn.close()
+
+    return jsonify(resposta), 201
 
 
 @app.route('/filme', methods=['POST'])
-def cadastrar_filmw():
+def cadastrar_filme():
     dados = request.get_json()
 
     if not dados:
